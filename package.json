@@ -1,0 +1,19 @@
+{
+  "name": "dwh-key-maps",
+  "version": "1.0.0",
+  "description": "A package to handle dwh keys",
+  "main": "index.js",
+  "author": "Growthpal",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/growthpal/dwh-key-maps-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/growthpal/dwh-key-maps-npm/issues"
+  },
+  "homepage": "https://github.com/growthpal/dwh-key-maps-npm#readme"
+}
