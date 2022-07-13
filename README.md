@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/@growthpal%2Fvyasa.svg)](https://badge.fury.io/js/@growthpal%2Fvyasa)
+[![npm version](https://badge.fury.io/js/@growthpal%2Fdwh-key-maps.svg)](https://badge.fury.io/js/@growthpal%2Fdwh-key-maps)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 # dwh-Key-Maps
